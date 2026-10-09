@@ -24,3 +24,7 @@ This project contains a sales analysis dashboard created using Microsoft Excel t
 
 ## 👩‍💻 Author
 Created as a Data Analytics Project.
+
+## Dashboard Preview
+
+![Vrinda Store Dashboard](Screenshot%202026-10-09%20133002.png)
